@@ -26,7 +26,6 @@ jobs:
     
     - name: Build site with Antora
       run: |
-        npm install asciidoctor-kroki
         antora antora-playbook.yml
     
     - name: Upload artifact
