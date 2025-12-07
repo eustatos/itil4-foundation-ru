@@ -55,11 +55,11 @@ image::https://via.placeholder.com/200x400?text=Mobile+App[Mockup приложе
 [.row]
 [.column]
 === Основные разделы
-* link:chapter1.adoc[Глава 1: Введение]
-* link:chapter2.adoc[Глава 2: Ключевые концепции]
-* link:chapter3.adoc[Глава 3: Четыре измерения]
-* link:chapter4.adoc[Глава 4: Система создания ценности]
-* link:chapter5.adoc[Глава 5: Практики управления]
+* link:chapter1/index.adoc[Глава 1: Введение]
+* link:chapter2/index.adoc[Глава 2: Ключевые концепции]
+* link:chapter3/index.adoc[Глава 3: Четыре измерения]
+* link:chapter4/index.adoc[Глава 4: Система создания ценности]
+* link:chapter5/index.adoc[Глава 5: Практики управления]
 
 [.column]
 === Ключевые темы
