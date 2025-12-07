@@ -1,0 +1,158 @@
+# Antora сборка
+build/
+.cache/
+.output/
+
+# Зависимости
+node_modules/
+.yarn/
+.pnp.*
+
+# Локальные настройки
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*~
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Операционные системы
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Временные файлы
+*.tmp
+*.temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Сгенерированные файлы
+*.pdf
+*.epub
+*.mobi
+*.html
+*.pdf
+*.docx
+
+# Тестовые файлы
+test/
+tests/
+spec/
+coverage/
+.nyc_output
+
+# Служебные файлы проектов
+.project
+.classpath
+.settings/
+
+# Программные кэши
+.cache/
+*.cache
+
+# Временные файлы сборки
+.tmp/
+temp/
+
+# Документация (кроме исходников)
+*.pdf
+*.epub
+*.mobi
+
+# Файлы локализации
+*.pot
+*.po
+*.mo
+
+# Файлы журналов
+*.log
+logs/
+
+# Системные бэкапы
+*.bak
+*.backup
+
+# Файлы конфигурации IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Файлы пакетных менеджеров
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+shrinkwrap.yaml
+
+# Файлы окружения
+.env*
+!.env.example
+
+# Файлы тестов и покрытия
+coverage/
+.nyc_output
+*.lcov
+
+# Деплой и публикация
+deploy/
+dist/
+out/
+release/
+
+# Файлы пользовательских UI расширений
+ui-bundle/
+
+# Артефакты сборки Antora
+public/
+build/
+
+# Генерируемые диаграммы (если генерируются локально)
+*.png
+*.jpg
+*.svg
+diagrams/
+!docs/modules/ROOT/assets/images/ # кроме статических изображений
+
+# Кэш AsciiDoc
+.asciidoctor/
+
+# Файлы кэша системы
+.fuse_hidden*
+
+# Файлы блокировки
+*.lock
+
+# Файлы автодополнения
+*.sublime-*
