@@ -16,7 +16,7 @@
 * xref:chapter5/index.adoc[Глава 5: Практики управления ITIL]
 
 ** Примеры потоков создания ценности
-* xref:chapter5/index.adoc[Приложение: Примеры потоков создания ценности]
+* xref:appendixA/index.adoc[Приложение: Примеры потоков создания ценности]
 
 ** Словарь
 * xref:glossary/index.adoc[Словарь]
