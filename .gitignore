@@ -138,13 +138,6 @@ ui-bundle/
 public/
 build/
 
-# Генерируемые диаграммы (если генерируются локально)
-*.png
-*.jpg
-*.svg
-diagrams/
-!docs/modules/ROOT/assets/images/ # кроме статических изображений
-
 # Кэш AsciiDoc
 .asciidoctor/
 
