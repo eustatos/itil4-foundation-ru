@@ -1,0 +1,26 @@
+site:
+  title: ITIL 4 Foundation - Документация
+  start_page: itil4-foundation::index.adoc  # Добавлено двойное двоеточие
+
+content:
+  sources:
+    - url: ./
+      branches: [main]
+      start_path: docs
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+
+asciidoc:
+  attributes:
+    experimental: ''
+    sectanchors: ''
+    toc: macro
+    toclevels: 3
+    source-highlighter: highlightjs
+    highlightjs-theme: github
+    icons: font
+    idprefix: ''
+    idseparator: '-'
