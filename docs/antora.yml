@@ -2,7 +2,7 @@ name: itil4-foundation
 title: ITIL 4 Foundation
 version: '1.0'
 nav:
-  - modules/itil4-foundation/nav.adoc
+  - modules/ROOT/nav.adoc
 asciidoc:
   attributes:
     experimental: ''
