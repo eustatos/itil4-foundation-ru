@@ -60,6 +60,8 @@ image::https://via.placeholder.com/200x400?text=Mobile+App[Mockup приложе
 * link:chapter3/index.adoc[Глава 3: Четыре измерения]
 * link:chapter4/index.adoc[Глава 4: Система создания ценности]
 * link:chapter5/index.adoc[Глава 5: Практики управления]
+* link:appendixA/index.adoc[Приложения: Примеры потоков создания ценности]
+* link:glossary/index.adoc[Справочник]
 
 [.column]
 === Ключевые темы

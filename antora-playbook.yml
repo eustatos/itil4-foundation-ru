@@ -1,6 +1,7 @@
 site:
   title: ITIL 4 Foundation - Документация
   start_page: itil4-foundation::index.adoc  # Добавлено двойное двоеточие
+  url: https://eustatos.github.io/itil4-foundation-ru/
 
 content:
   sources:
